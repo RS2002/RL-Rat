@@ -2,6 +2,8 @@
 
 **Article:** 基于轨迹调制和强化学习的小型四足机器人运动控制方法, Motion Control Method for Small Quadruped Robots Based on Trajectory Modulation and Reinforcement Learning
 
+**Patent:** 黄凯, 张子韬, 赵子健, 陶若怡, "一种基于强化学习的小型仿生鼠机器人的运动控制方法"（申请号：2023116499786，2023）
+
 **Author:** Zijian Zhao
 
 **Supervisors:** Prof. Kai Huang, Prof. Gang Chen, Zitao Zhang
